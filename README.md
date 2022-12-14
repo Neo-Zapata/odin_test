@@ -1,3 +1,2 @@
-# odin_test
-:)
-hello
+# Odin Recipes
+Webpage with different recipes :)
